@@ -1,3 +1,4 @@
 
-LoweCase | upperCase
-
+.history file is gone:
+gitrm-r--cached.history
+gitcommit-m"removenow"
