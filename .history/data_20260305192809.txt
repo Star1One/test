@@ -1,3 +1,0 @@
-
-LoweCase | upperCase
-
