@@ -12,21 +12,20 @@ My focus is creating **clean, responsive and user-friendly interfaces**.
 ## 🚀 Tech Stack
 
 ### Frontend
-- HTML • CSS • JavaScript • TypeScript  
-- React • Next.js • Tailwind CSS
+HTML • CSS • JavaScript • TypeScript  
+React • Next.js • Tailwind CSS
 
 ### Backend
-- Python
+Python • Node.js
 
 ### Database
-- SQL Server
-- Node.js
+SQL Server
 
 ### Machine Learning / AI
-- PyTorch • Scikit-learn
+PyTorch • Scikit-learn
 
 ### Tools
-- Git • GitHub
+Git • GitHub
 
 ---
 
@@ -52,7 +51,7 @@ JavaScript • SQL Server
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Goal:
 
 I am currently looking for a **Frontend Developer position** where I can contribute to building modern web applications and continue improving my development skills.
 
