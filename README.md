@@ -55,7 +55,10 @@ Clone the repository:
 
 git clone
 
-🔗 `https://github.com/your-username/book-list-manager.git`
+🔗 ```
+https://github.com/your-username/book-list-manager.git
+
+```
 
 
 Navigate into the project:
@@ -89,7 +92,10 @@ npm run dev
 
 API endpoint used by the app:
 
-`http://localhost:3000/books`
+```
+http://localhost:3000/books
+
+```
 
 ## Key React Concepts Demonstrated
 
