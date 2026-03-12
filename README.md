@@ -5,6 +5,8 @@ Users can add, view, and delete books while interacting with a local API.
 
 The application demonstrates modern React practices, including component architecture, async data fetching, loading states, error handling, and cross-component communication.
 
+This project is a learning project to practice React, component architecture, and working with local API.
+
 --- 
 
 ## 🚀 Features
@@ -64,18 +66,17 @@ npx json-server --watch db.json --port 3000
 Start the React application:
 
 ```bash
-npm run dev
+npm run start
 ```
 
 ### 🌐 API endpoint:
 
 ```
 http://localhost:3000/books
-
 ```
 
 ;; project URL (for example from Netlify, Vercel, or GitHub Pages):
-## 🔗 Live Demo:
+### 🔗 Live Demo:
 
 [View the Live Application](https://your-project-demo-link.com)
 
@@ -124,7 +125,7 @@ Add a book via modal form
 
 Delete books from the list
 
-After adding a book:
+After adding or deleting book:
 
 A success message appears
 
@@ -136,7 +137,7 @@ Loading spinner during API fetch
 
 Empty list message when no books exist
 
-Success notification after adding a book
+Success notification after adding or deleting a book
 
 Responsive layout for smaller screens
 
@@ -150,9 +151,7 @@ Persistent notifications system
 
 Form validation
 
-Backend integration (Node / Express)
-
-Global state management (Context API or Redux)
+Global state management using React Context API
 
 ### Author
 
