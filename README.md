@@ -45,14 +45,12 @@ src
 └── main.jsx
 ```
 
---- 
-
 ## ⚙️ Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/book-list-manager.git
+    git clone https://github.com/your-username/book-list-manager.git
 ```
 
 ---
