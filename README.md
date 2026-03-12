@@ -59,6 +59,7 @@ git clone
 https://github.com/your-username/book-list-manager.git
 
 ```
+
 ---
 
 Navigate into the project:
@@ -82,8 +83,6 @@ npx json-server --watch db.json --port 3000
 ```
 
 Start the React application:
-
-```bash
 
 ```bash
 npm run dev
