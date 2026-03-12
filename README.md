@@ -20,7 +20,6 @@ The application demonstrates modern React practices, including component archite
 - Responsive UI with CSS modules
 - Automatic UI updates using React state
 
-...
 
 ## 🛠 Technologies Used
 
@@ -47,29 +46,28 @@ src
 └── main.jsx
 
 ```
-...
 
 ## ⚙️ Installation
 
 Clone the repository:
 
-git clone
+```bash
 
-🔗 
-```
-https://github.com/your-username/book-list-manager.git
+git clone https://github.com/your-username/book-list-manager.git
 
 ```
-
----
 
 Navigate into the project:
 
+```bash
 cd book-list-manager
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Running the Project
 
@@ -88,22 +86,21 @@ Start the React application:
 ```bash
 npm run dev
 ```
-...
 
-API endpoint used by the app:
+### 🌐 API endpoint:
 
 ```
 http://localhost:3000/books
 
 ```
 
-## Key React Concepts Demonstrated
+## 🧠 Key React Concepts Demonstrated
 
 This project demonstrates several important React concepts:
 
-State Management
+- **State Management**
 
-Using useState to manage UI state.
+  Using useState to manage UI state.
 
 Side Effects
 
@@ -130,9 +127,7 @@ Using:
 
 to trigger UI updates across components.
 
-Example Flow
-
-Application loads.
+### 🔄 Application Flow
 
 Books are fetched from the API.
 
@@ -152,7 +147,7 @@ The message resets automatically after a few seconds.
 
 ...
 
-### UI Behavior
+### 🎨 UI Behavior
 
 Loading spinner during API fetch
 
