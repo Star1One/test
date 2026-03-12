@@ -43,6 +43,9 @@ JSON Server (local API)
 --- 
 
 📂 Project Structure
+
+```
+
 src/
 │
 ├── component/
@@ -70,13 +73,14 @@ src/
 ├── App.jsx
 └── main.jsx
 
+```
 --- 
 
-⚙️ Installation
+## ⚙️ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/book-list-manager.git
+git clone 🔗  https://github.com/your-username/book-list-manager.git
 
 Navigate into the project:
 
@@ -90,7 +94,7 @@ Running the Project
 
 ---
 
-Start the JSON server (local API):
+### Start the JSON server (local API):
 
 ```bash
 npx json-server --watch db.json --port 3000
@@ -108,8 +112,6 @@ npm run dev
 API endpoint used by the app:
 
 http://localhost:3000/books
-
----
 
 Key React Concepts Demonstrated
 
@@ -200,7 +202,7 @@ Developed as a React learning project to practice component architecture, asynch
 
 ---
 
-📜 License
+### License
 
 This project is open-source and available under the MIT License.
 
