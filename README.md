@@ -60,13 +60,17 @@ git clone https://github.com/your-username/book-list-manager.git
 Navigate into the project:
 
 ```bash
-cd book-list-manager
+
+cd books-list-manager
+
 ```
 
 Install dependencies:
 
 ```bash
+
 npm install
+
 ```
 
 Running the Project
@@ -84,7 +88,9 @@ npx json-server --watch db.json --port 3000
 Start the React application:
 
 ```bash
+
 npm run dev
+
 ```
 
 ### 🌐 API endpoint:
