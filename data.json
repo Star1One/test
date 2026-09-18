@@ -1,0 +1,18 @@
+
+[
+    {
+        "name": "Sam",
+        "lName": "Teylor",
+        "age": 24
+    },
+    {
+        "name": "Ali",
+        "lName": "Morad",
+        "age": 39
+    },
+    {
+        "name": "Sam",
+        "lName": "McColen",
+        "age": 28
+    }
+]
