@@ -1,4 +1,3 @@
 
-.history file is gone:
-gitrm-r--cached.history
-gitcommit-m"removenow"
+new change 2*5*9
+
