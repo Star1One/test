@@ -1,4 +1,5 @@
 
-last one update on 25
-it's test file
-
+.history file is gone:
+gitrm-r--cached.history
+gitcommit-m"removenow"
+new
